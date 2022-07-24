@@ -1,0 +1,15 @@
+bud:
+  help:
+    mcdr: Hello world from my plugin!
+    detailed: |
+      §7-----§r MCDR {name} v{ver} §7-----§r
+      Hello world from my plugin!
+      §7{prefix}§r Show this help message
+      §7{prefix} reload§r Reload this plugin
+
+  msg:
+    reloaded: Plugin reloaded
+
+  load_config:
+    validation_error_handle: "Fixed invalid keys with default value: {0}"
+    missing_keys_handle: "Fixed missing keys with default value: {keys}"

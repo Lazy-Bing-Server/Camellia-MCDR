@@ -1,0 +1,17 @@
+{
+    "id": "bud",
+    "version": "1.0.0",
+    "name": "Bud",
+    "description": "This description is a description to your plugin",
+    "author": [
+        "You"
+    ],
+    "link": "https://github.com/Lazy-Bing-Server/Bud-MCDRTemplate",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0"
+    },
+
+    "resources": [
+        "lang"
+    ]
+}
